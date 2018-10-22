@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "987338325425",
+    "firebase_url": "https://skolkostoitplay.firebaseio.com",
+    "project_id": "skolkostoitplay",
+    "storage_bucket": "skolkostoitplay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987338325425:android:31fd04a3538a9ba9",
+        "android_client_info": {
+          "package_name": "com.gkain.skolkostoitgoogleplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987338325425-v1375a1319t6ese4nn8u76tlvkj1ulvn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gkain.skolkostoitgoogleplay",
+            "certificate_hash": "7ae91f85b3c22d9a9fd4cdebe6f88e07bfc6fed4"
+          }
+        },
+        {
+          "client_id": "987338325425-6n8jhdsqipaafl5roa44sn2qp9jnrrdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd8u3UIFaP3WxQNDf4AfgPLUhmkGJl1cI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987338325425-6n8jhdsqipaafl5roa44sn2qp9jnrrdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
